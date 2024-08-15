@@ -1,0 +1,9 @@
+C:\Users\Hp\source\repos\CarRental\CarRental_BusinessLayer\bin\Debug\CarRental_BusinessLayer.dll
+C:\Users\Hp\source\repos\CarRental\CarRental_BusinessLayer\bin\Debug\CarRental_BusinessLayer.pdb
+C:\Users\Hp\source\repos\CarRental\CarRental_BusinessLayer\bin\Debug\CarRental_DataAccess.dll
+C:\Users\Hp\source\repos\CarRental\CarRental_BusinessLayer\bin\Debug\CarRental_DataAccess.pdb
+C:\Users\Hp\source\repos\CarRental\CarRental_BusinessLayer\obj\Debug\CarRental_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CarRental\CarRental_BusinessLayer\obj\Debug\CarRental_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CarRental\CarRental_BusinessLayer\obj\Debug\CarRenta.9EE3AE23.Up2Date
+C:\Users\Hp\source\repos\CarRental\CarRental_BusinessLayer\obj\Debug\CarRental_BusinessLayer.dll
+C:\Users\Hp\source\repos\CarRental\CarRental_BusinessLayer\obj\Debug\CarRental_BusinessLayer.pdb

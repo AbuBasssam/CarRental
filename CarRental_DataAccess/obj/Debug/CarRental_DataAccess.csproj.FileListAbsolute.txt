@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\CarRental\CarRental_DataAccess\bin\Debug\CarRental_DataAccess.dll
+C:\Users\Hp\source\repos\CarRental\CarRental_DataAccess\bin\Debug\CarRental_DataAccess.pdb
+C:\Users\Hp\source\repos\CarRental\CarRental_DataAccess\obj\Debug\CarRental_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CarRental\CarRental_DataAccess\obj\Debug\CarRental_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CarRental\CarRental_DataAccess\obj\Debug\CarRental_DataAccess.dll
+C:\Users\Hp\source\repos\CarRental\CarRental_DataAccess\obj\Debug\CarRental_DataAccess.pdb
