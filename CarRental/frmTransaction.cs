@@ -59,7 +59,7 @@ namespace CarRental
                 mm.Subject = "New Car Reservation";
                 mm.Body = Body;
                 sc.Port = 587;
-                sc.Credentials = new System.Net.NetworkCredential(From, "vtmq lnys hplq lnuv");
+                sc.Credentials = new System.Net.NetworkCredential(From, "");
                 sc.EnableSsl = true;
                 sc.Send(mm);
                 MessageBox.Show(" the Reservation Email has been sent.", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
